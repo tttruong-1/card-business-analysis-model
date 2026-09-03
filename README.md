@@ -1,6 +1,6 @@
 # Card Business Analysis Model
 
-A model programmed in Pythin using pandas and data science concepts to analyze business statistics of Pokemon Trading card sales. Is primarly used for vendors to track sales, calculate statistics and make informed business decisions and predictions with visuals.
+A model programmed in Python using pandas and data science concepts to analyze business statistics of Pokemon Trading card sales. Is primarily used for card vendors to track sales, calculate statistics and make informed business decisions and predictions with visuals.
 
 ## Key Features
 
@@ -8,7 +8,7 @@ A model programmed in Pythin using pandas and data science concepts to analyze b
 - Creates graphical visualizations of statistics to aid in analysis.
 - Divides sales by shows to see individual stats.
 
-## System librares required:
+## System librares required
 
 - python 3.8+
 - pandas
@@ -28,7 +28,7 @@ The format makes inputting easier to go from:
 	show -> discord -> .csv -> system
 ```
 
-## To run the system:
+## To run the system
 
 1. Put raw .csv data into raw data folder
 
